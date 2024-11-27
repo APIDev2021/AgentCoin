@@ -706,7 +706,7 @@
             return "".concat(t, "...").concat(n);
           },
           o = (e) => {
-            let t = "https://x.com/agentcoinorg/status/".concat(r.qg),
+            let t = "https://x.com/agentsoftmrw/status/".concat(r.qg),
               n = encodeURIComponent(
                 "I just joined Agentcoin's waitlist for the AI Agents that Livestream trading crypto, playing games, and sharing hot takes.\n\nGet your spot on the @agentcoinorg waitlist - ".concat(
                   e
