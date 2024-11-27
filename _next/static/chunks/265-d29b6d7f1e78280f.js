@@ -124,18 +124,18 @@
                         className: "flex items-center space-x-6 max-md:hidden",
                         children: [
                           (0, r.jsx)(s.default, {
-                            href: "/blog",
+                            href: "https://t.me/AgentsofTomorrow",
                             className:
                               "text-xs uppercase text-zinc-400 hover:text-zinc-200 md:text-sm",
-                            children: "Blog",
+                            children: "Telegram",
                           }),
                           (0, r.jsx)(s.default, {
-                            href: "https://discord.com/invite/6gk85fetcT",
+                            href: "https://x.com/agentsoftmrw",
                             target: "_blank",
                             rel: "noredirect",
                             className:
                               "text-xs uppercase text-zinc-400 hover:text-zinc-200 md:text-sm",
-                            children: "community",
+                            children: "Twitter",
                           }),
                         ],
                       }),
